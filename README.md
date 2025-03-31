@@ -1,8 +1,8 @@
-# Retinal Blood Vessel Segmentation for Early Diabetic Retinopathy Detection
-BMEN 623- Group 1
-Kennedy Connors
-Regan Kane 
-Sepehr Akhiani
+## Retinal Blood Vessel Segmentation for Early Diabetic Retinopathy Detection
+# BMEN 623- Group 1
+# Kennedy Connors
+# Regan Kane 
+# Sepehr Akhiani
 
 ## Overview  
 This project aims to develop a practical methodology for retinal blood vessel segmentation to facilitate the early detection of diabetic retinopathy. By utilizing fundamental image processing techniques such as contrast enhancement, noise reduction, and targeted segmentation, this work seeks to improve the accuracy and reliability of identifying vascular structures in fundus images.
